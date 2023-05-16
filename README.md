@@ -1,4 +1,4 @@
-# node-red-contrib-stackhero-influxdb-v2 - NO SSL certificate verification
+# node-red-contrib-stackhero-influxdb-v2 -- NO SSL certificate verification
 
 [Node-RED](https://nodered.org) node to read and write to an InfluxDB v2 database.
 
